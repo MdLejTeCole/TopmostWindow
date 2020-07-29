@@ -1,0 +1,17 @@
+C:\Users\mdlejtecole\source\repos\ControlsMenu\ControlsMenu\bin\Debug\net472\ControlsMenu.exe.config
+C:\Users\mdlejtecole\source\repos\ControlsMenu\ControlsMenu\bin\Debug\net472\ControlsMenu.exe
+C:\Users\mdlejtecole\source\repos\ControlsMenu\ControlsMenu\bin\Debug\net472\ControlsMenu.pdb
+C:\Users\mdlejtecole\source\repos\ControlsMenu\ControlsMenu\obj\Debug\net472\ControlsMenu.csprojAssemblyReference.cache
+C:\Users\mdlejtecole\source\repos\ControlsMenu\ControlsMenu\obj\Debug\net472\MainWindow.g.cs
+C:\Users\mdlejtecole\source\repos\ControlsMenu\ControlsMenu\obj\Debug\net472\MiniMenu.g.cs
+C:\Users\mdlejtecole\source\repos\ControlsMenu\ControlsMenu\obj\Debug\net472\App.g.cs
+C:\Users\mdlejtecole\source\repos\ControlsMenu\ControlsMenu\obj\Debug\net472\ControlsMenu_MarkupCompile.cache
+C:\Users\mdlejtecole\source\repos\ControlsMenu\ControlsMenu\obj\Debug\net472\ControlsMenu_MarkupCompile.lref
+C:\Users\mdlejtecole\source\repos\ControlsMenu\ControlsMenu\obj\Debug\net472\MainWindow.baml
+C:\Users\mdlejtecole\source\repos\ControlsMenu\ControlsMenu\obj\Debug\net472\MiniMenu.baml
+C:\Users\mdlejtecole\source\repos\ControlsMenu\ControlsMenu\obj\Debug\net472\ControlsMenu.g.resources
+C:\Users\mdlejtecole\source\repos\ControlsMenu\ControlsMenu\obj\Debug\net472\ControlsMenu.csproj.CoreCompileInputs.cache
+C:\Users\mdlejtecole\source\repos\ControlsMenu\ControlsMenu\obj\Debug\net472\ControlsMenu.AssemblyInfoInputs.cache
+C:\Users\mdlejtecole\source\repos\ControlsMenu\ControlsMenu\obj\Debug\net472\ControlsMenu.AssemblyInfo.cs
+C:\Users\mdlejtecole\source\repos\ControlsMenu\ControlsMenu\obj\Debug\net472\ControlsMenu.exe
+C:\Users\mdlejtecole\source\repos\ControlsMenu\ControlsMenu\obj\Debug\net472\ControlsMenu.pdb
